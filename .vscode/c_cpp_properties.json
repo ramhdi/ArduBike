@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\\\Google Drive\\\\Electronics and Automation\\\\Arduino\\\\tools\\\\**",
+                "D:\\\\Google Drive\\\\Electronics and Automation\\\\Arduino\\\\hardware\\\\Arduino_STM32\\\\STM32F1\\\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:\\TDM-GCC-64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
